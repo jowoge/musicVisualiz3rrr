@@ -1,3 +1,4 @@
+how to use:
 -prerequisites required: microphone, speakers
 -please play audio out through speakers and allow microphone access
 -you may play audio through headphones but if you are recording, 
