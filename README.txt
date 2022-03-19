@@ -1,3 +1,4 @@
+itp2 project: music visualizer
 how to use:
 -prerequisites required: microphone, speakers
 -please play audio out through speakers and allow microphone access
