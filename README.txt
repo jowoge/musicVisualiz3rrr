@@ -1,5 +1,6 @@
 itp2 project: music visualizer
 how to use:
+-run the sketch.js file & follow instructions on screen
 -prerequisites required: microphone, speakers
 -please play audio out through speakers and allow microphone access
 -you may play audio through headphones but if you are recording, 
